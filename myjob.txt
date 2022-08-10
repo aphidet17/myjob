@@ -3,18 +3,17 @@ Programmer
 PA & CA Recruitment Co., Ltd.
 
 Job Description: 
-
+รายละเอียดงาน
     >System Development.
     >Support setting computer and network device.
     >Support setting Sever.
-    >System Development web application (ASP. net, VB. net, C#.net), PL/SGL, oracle application
+    
 
 Qualification:  
-
+คุณสมบัติ
     >Bachelor's degree in Computer science or Computer engineering.
     >Good command in English will be advantage.
     >At least 1 years’ experience in related field.
-    >Working hour: Monday-Saturday, 08:00-17:00. (1-2 Saturday depend on calendar)
-    >Salary plus other allowances.
-
+    
+    
 Location:  Navanakorn2 (Korat)
