@@ -1,19 +1,27 @@
 Programmer
 ตำแหน่ง โปรแกรมเมอร์
 PA & CA Recruitment Co., Ltd.
+PA & CA รับสมัครงาน
 
 Job Description: 
 รายละเอียดงาน
     >System Development.
+    -การพัฒนาระบบ.
     >Support setting computer and network device.
+    -รองรับการตั้งค่าคอมพิวเตอร์และอุปกรณ์เครือข่าย
     >Support setting Sever.
+    -รองรับการตั้งค่าเซิร์ฟเวอร์
     
 
 Qualification:  
 คุณสมบัติ
     >Bachelor's degree in Computer science or Computer engineering.
+    -วุฒิปริญญาตรี สาขาวิทยาการคอมพิวเตอร์ หรือ วิศวกรรมคอมพิวเตอร์
     >Good command in English will be advantage.
+    -สามารถใช้ภาษาอังกฤษได้ดีจะพิจารณาเป็นพิเศษ
     >At least 1 years’ experience in related field.
+    -ประสบการณ์อย่างน้อย 1 ปีในสาขาที่เกี่ยวข้อง
     
-    
+
 Location:  Navanakorn2 (Korat)
+-ที่ตั้ง: นวนคร2(โคราช)
